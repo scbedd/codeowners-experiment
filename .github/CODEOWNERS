@@ -1,0 +1,4 @@
+/sdk/ml/                  @scbedd
+/sdk/ml/ci.yml            @danieljurek
+/sdk/ml/azure-ai-ml/      @annatisch
+/sdk/ml/azure-mgmt-ml/    @annatisch
